@@ -1,6 +1,6 @@
 # TOPOLOGYX: A Cisco Network Topology Simulator
 
-A Python-based tool to generate, analyze, and simulate network topologies with security, cloud, and export features.
+A Python-based ai tool to generate, analyze, and simulate network topologies with security, cloud, and export features.
 
 ---
 
